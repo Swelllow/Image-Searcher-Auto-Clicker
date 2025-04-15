@@ -74,24 +74,24 @@ Gui, Add, Text, x15 y35 w440 h25, How to Use This Image Searcher Auto Clicker:
 Gui, Add, Edit, x15 y65 w440 h290 ReadOnly -Wrap +VScroll, 
 (
 1. BASIC SETUP:
-   • Set a hotkey or use the default F9 to start/stop clicking
-   • Default click interval is 250ms (adjust as needed based on pc, if it passes the image you have set make the ms higher)
+   * Set a hotkey or use the default F9 to start/stop clicking
+   * Default click interval is 250ms (adjust as needed based on pc, if it passes the image you have set make the ms higher)
 
 2. IMAGE DETECTION:
-   • CAPTURE REGION: First select a search area on screen (no screenshot yet)
-   • TAKE SCREENSHOT: Takes screenshot of the selected region (with the button)
-   • SELECT IMAGE: Choose an existing .bmp file if needed
-   • SHOW SEARCH AREA: Toggle visibility of the search region
+   * CAPTURE REGION: First select a search area on screen (no screenshot yet)
+   * TAKE SCREENSHOT: Takes screenshot of the selected region (with the button)
+   * SELECT IMAGE: Choose an existing .bmp file if needed
+   * SHOW SEARCH AREA: Toggle visibility of the search region
   
 3. WORKFLOW:
-   • Step 1: Click "Capture Region" and select an area (it will be invisible just drag and click)
-   • Step 2: Click "Take Screenshot" to capture that area
-   • Step 3: Adjust options and click Start or press hotkey
-   • The screenshot will be used for image detection
+   * Step 1: Click "Capture Region" and select an area (it will be invisible just drag and click)
+   * Step 2: Click "Take Screenshot" to capture that area
+   * Step 3: Adjust options and click Start or press hotkey
+   * The screenshot will be used for image detection
 
 4. OPTIONS:
-   • RANDOMIZE: Adds variation to click timing
-   • STOP WHEN FOUND: Stops clicking after finding the image (recommended to have on for obvi reasons)
+   * RANDOMIZE: Adds variation to click timing
+   * STOP WHEN FOUND: Stops clicking after finding the image (recommended to have on for obvi reasons)
 
 Settings are automatically saved when you change them.
 Press your hotkey or click the Start button to begin.
