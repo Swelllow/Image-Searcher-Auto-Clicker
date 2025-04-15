@@ -2,6 +2,9 @@
 
 A simple and fast image-based auto clicker designed for ease of use.
 
+![image](https://github.com/user-attachments/assets/5d3db4b1-bbf3-47b9-a961-0d5dc171b129)
+
+
 ---
 
 ## 🚀 How to Run the Program (Using the .exe)
