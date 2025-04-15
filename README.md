@@ -42,3 +42,5 @@ If you prefer not to run the precompiled `.exe`, you can run the source script d
 ---
 
 Enjoy using the tool, and feel free to open an issue if you encounter any problems or have feature suggestions!
+
+Also quick note this tool was mostly built for Bubble Gum Simulator Infinity / BGSI but can be used for other games aswell
