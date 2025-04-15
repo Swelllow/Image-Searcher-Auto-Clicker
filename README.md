@@ -1,0 +1,1 @@
+# Image-Searcher-Auto-Clicker
