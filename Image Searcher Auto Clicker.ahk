@@ -71,7 +71,7 @@ Gui, Add, Text, x25 y305 w310 h25 vStatusText, Ready - Press %ActiveHotkey% to s
 Gui, Tab, 2
 Gui, Add, Text, x15 y35 w440 h25, How to Use This Image Searcher Auto Clicker:
 
-Gui, Add, Edit, x15 y65 w440 h290 ReadOnly -Wrap +VScroll, 
+Gui, Add, Edit, x15 y65 w440 h290 ReadOnly +WantReturn +VScroll, 
 (
 1. BASIC SETUP:
    * Set a hotkey or use the default F9 to start/stop clicking
